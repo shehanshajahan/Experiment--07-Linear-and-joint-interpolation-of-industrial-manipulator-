@@ -1,5 +1,8 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
-
+## Name : Shehan Shajahan
+## Date : 15-04-2024
+## Register Number : 212223240154
+## Department : Artificial Intelligence and Machine Learning
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
@@ -36,38 +39,15 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 
 ### Program : 
-DART studio screen shots for linear interpolation 
-
-
-
-
-
-
-
-
-
-DART studio screen shots for joint interpolation 
-
-
-
-
-
-
+![image](https://github.com/shehanshajahan/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/139317389/c0996aac-7314-402c-ab1a-baa5079e8440)
+![image](https://github.com/shehanshajahan/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/139317389/b8eb5b73-3e89-4c12-852d-edf033b0111b)
 
 
 ### Robot movements 
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/shehanshajahan/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/139317389/35608e44-fcee-4a51-aff3-cd53d8e6c2f0)
+![image](https://github.com/shehanshajahan/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/139317389/1b01cfba-fe37-44be-af78-80dbc4305575)
+![Uploading image.png…]()
 
 
 ### Results:  
+A program is developed for understanding linear and joint interpolation of industrial manipulator and is ran sucessfully.
