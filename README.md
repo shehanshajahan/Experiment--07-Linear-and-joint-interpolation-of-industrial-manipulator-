@@ -44,9 +44,10 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 
 ### Robot movements 
-![image](https://github.com/shehanshajahan/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/139317389/35608e44-fcee-4a51-aff3-cd53d8e6c2f0)
-![image](https://github.com/shehanshajahan/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/139317389/1b01cfba-fe37-44be-af78-80dbc4305575)
-![Uploading image.png…]()
+![Screenshot 2024-05-16 225309](https://github.com/shehanshajahan/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/139317389/e9b08232-0366-4afb-95c6-f2e1ce9c4ecc)
+![Screenshot 2024-05-16 225326](https://github.com/shehanshajahan/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/139317389/a9d868c2-9175-4c09-9003-fbf1649432a3)
+![Screenshot 2024-05-16 225336](https://github.com/shehanshajahan/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/139317389/355e5f8f-079e-49a7-bf37-a13f496d273b)
+
 
 
 ### Results:  
